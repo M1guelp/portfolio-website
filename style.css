@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.header {
+    overflow: hidden;
+    background-color: black;
+    padding: 20px 10px;
+}
+
+.header a {
+    float: left;
+    color: whitesmoke;
+    text-align: center;
+    padding: 12px 50px;
+    text-decoration: none;
+    font-size: 22px;
+    line-height: 25px;
+}
+
+.header a:hover {
+    background-color: grey; 
+}
+
+.header-right {
+    float: right;
+}
+
+
+
